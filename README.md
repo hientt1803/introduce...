@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hientt1803
-- 👀 I’m interested in java,html,css,javascript and reactJS
-- 🌱 I’m currently learning  java,reactJS,...
+- 👀 I’m interested in javascript , Java
+- 🌱 I’m currently learning reactJS,AngularJS,Bootstrap...
 - 💞️ I’m looking to collaborate on  github
 - i'm newbie and i want to learn how to code better
 
